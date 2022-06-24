@@ -375,6 +375,12 @@
 }
 
 #mainTutorialImage {
+  width: 40%;
+  height: 55%;
+  padding-top: 20px;
+}
+
+#firstTutorialImage {
   width: 25%;
   padding-top: 5px;
 }
@@ -397,7 +403,7 @@
 
 #tutorial > ul li {
   list-style: none;
-  padding-bottom: 5px;
+  padding-bottom: 30px;
   padding-right: 40px;
   font-size: 14px;
 }
